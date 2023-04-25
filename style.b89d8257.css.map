@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,gBACF,CAEA,MACE,gBACF","file":"style.b89d8257.css","sourceRoot":"..\\src","sourcesContent":[".form_fields {\n  margin: 20px auto;\n}\n\n.form {\n  margin: 10px auto;\n}\n"]}
